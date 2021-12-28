@@ -19,7 +19,6 @@ selenium==3.141.0
 six==1.16.0
 soupsieve==2.2.1
 urllib3==1.26.6
-
 Firefox
 
 # How to install the prerequisite?
@@ -29,13 +28,6 @@ Install Firefox
 Install the above libraries using PIP
 
 # How to run the script?
-In the folder where you place the script, to run the script: parse.py
+In the folder where you place the script, run the script parse.py
 
-
-
-
-# H
-pip install selenium
-Once you've installed it, make sure that the chromedriver.exe is in the folder, download it from here: https://chromedriver.chromium.org/downloads
-
-Make sure the chromedriver version correspond with your chrome browser version, otherwise error would occur.
+You can type python parse.py in command prompt cmd if you are using windows.
